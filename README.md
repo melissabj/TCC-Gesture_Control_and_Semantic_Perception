@@ -57,16 +57,14 @@ TCC-Gesture_Control_and_Semantic_Perception/
 
 Clone o repositório:
   
-    ```bash
-
+```bash
     git clone https://github.com/melissabj/TCC-Gesture_Control_and_Semantic_Perception.git
     cd TCC-Gesture_Control_and_Semantic_Perception
-    ```
+```
 Instale as dependências diretamente via pip:
-  ```bash
-
+```bash
     pip install opencv-python mediapipe ultralytics pyserial scikit-learn
-  ```
+```
 
 ## 🎮 Como Executar
 
@@ -74,14 +72,13 @@ Instale as dependências diretamente via pip:
 
 Executa a interface visual da câmera, reconhece os gestos e a cena simultaneamente e envia os comandos via porta serial:
 ```Bash
-
 python code+models/sistema_unificado.py
 ```
+
 ### 2. Modo com Telemetria e Coleta de Métricas
 
 Executa o mesmo pipeline de visão, adicionando a medição em tempo real e o registro de dados de desempenho (Frames Por Segundo - FPS, tempo de inferência e latência do sistema):
 ```Bash
-
 python code+models/sistema_unificado_telemetria.py
 ```
 
