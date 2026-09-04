@@ -5,21 +5,21 @@ Este repositório contém o código-fonte e os modelos treinados do sistema de D
 
 # 📌 Sumário
 
-    [Sobre o Projeto](#sobre-o-projeto)
+- Sobre o Projeto
 
-    Estrutura do Repositório
+- Estrutura do Repositório
 
-    Tecnologias Utilizadas
+- Tecnologias Utilizadas
 
-    Instalação
+- Instalação
 
-    Como Executar
+- Como Executar
 
-    Mapeamento de Gestos e Comandos
+- Mapeamento de Gestos e Comandos
 
-    Resultados Obtidos
+- Resultados Obtidos
 
-    Autora
+- Autora
 
 ## 📖 Sobre o Projeto
 
@@ -101,14 +101,15 @@ Nota: Caso esteja executando sem o Arduino conectado, certifique-se de tratar a 
 
 ## 📊 Resultados Obtidos
 
-    Acurácia na Classificação de Cenas: 91,69%
+- Acurácia na Classificação de Cenas: 91,69%
 
-    Taxa Média de Processamento: 132,4 FPS
+- Taxa Média de Processamento: 132,4 FPS
 
-    Latência Média de Inferência: 7,6 ms
+- Latência Média de Inferência: 7,6 ms
 
-##👩‍💻 Autora
+## 👩‍💻 Autora
 
 Melissa Batista Junqueira
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas
 
 GitHub: @melissabj
